@@ -24,7 +24,7 @@ requirements:
     - flit-core <4.0,>=3.9
   run:
     - python >=${{ python_min }}
-    - agent-framework-core <2,>=1.4.0
+    - agent-framework-core <2,>=1.6.0
     - azure-core <2,>=1.30.0
     - httpx <0.29,>=0.27.0
 
